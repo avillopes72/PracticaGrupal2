@@ -4,7 +4,7 @@ public abstract class VehiculoTransporte {
 
     
 
-    public String consultar() {
+    public String consultarDatos() {
         return "";
     }
 
